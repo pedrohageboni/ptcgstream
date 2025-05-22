@@ -1,1 +1,2 @@
-pip install obsws-python --upgrade
+pip3 install obs-websocket-py
+pause
