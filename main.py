@@ -131,7 +131,7 @@ def connect_obs():
 class OBSController:
     def __init__(self, master):
         self.master = master
-        master.title("Manafix Pokémon TCG OBS Control")
+        master.title("Programa do Hage pra stream de Pokémon")
         
         # Connect to OBS
         self.ws = connect_obs()
